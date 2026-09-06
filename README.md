@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Effective Date:** 2026/09  
-**Author:** Dr. Patrick Nichols 
+**Author:** Dr. Patrick Nichols
 **Lab Group:** Biodiversity Genomics Group
 
 ---
