@@ -57,12 +57,14 @@ The 2x-concentrated **stock storage/lysis buffer** can be prepared in 50 mL falc
 | :--- | :--- | :--- |
 | dH₂O |  | 18 mL |
 | NaCl | 1 M | 10 mL |
-| Tris-HCl | 1 M (pH 8) | 10 mL |
-| Ethylenediaminetetraacetic acid (EDTA) | 0.5 M (pH 8) | 2 mL |
-| Sodium Dodecyl Sulfate (SDS) | 10% | 10 mL |
+| Tris-HCl | 1 M (pH 8.0) | 10 mL |
+| Ethylenediaminetetraacetic acid (EDTA) | 0.5 M (pH 8.0) | 2 mL |
+| Sodium Dodecyl Sulfate (SDS) | 10% w/v | 10 mL |
 | *Total* | *2x* | *50 mL* |
 
-> **Note:** SDS can be omitted if samples will be immediately frozen at -20°C or -80°C, simplifying the extraction without a need for salting out (see Section 4.3 below).
+Store at room temperature. Re-disolve at *37°C* if precipitates formed. Vortex prior to distribution into sample tubes.
+
+> **Note:** SDS can be omitted if samples will be immediately frozen at -20°C or -80°C, simplifying the extraction without a need for salting out (see Section 4.2 below).
 
 ---
 
@@ -87,38 +89,29 @@ The 2x-concentrated **stock storage/lysis buffer** can be prepared in 50 mL falc
 2. Distribute **2.0 - 2.5 mL storage/lysis buffer** to each conical sample tube.
 3. Spike in **1 µL positive control DNA** to each sample tube.
 4. Roll eDNA cotton membrane samples and place into sample tubes, ensuring entire membrane is submerged.
-5. Shake vigorously and store at *< 25°C* up to two weeks.
+5. Shake vigorously or vortex and store at *< 25°C* up to two weeks.
 6. Record sample metadata (ID, date, site, coordinates, filtration volume, deployment duration, etc.).
 
 ---
 
-### 4.2 Lysis and Digestion
+### 4.2 Lysis, Digestion, and Salting Out
 
-> ⚠️ **Before starting:** Thaw Proteinase K on ice. Ensure incubator is set to *55°C*.
+> ⚠️ **Before starting:** Thaw Proteinase K on ice. Ensure incubator is set to *55°C*. Label two sets of conical tubes per sample.
 
 1. Add **100 - 200 µL Proteinase K** to each sample tube.
 2. Vortex briefly.
 3. Incubate at *55°C* overnight.
 4. Vortex briefly
 5. Centrifuge at 6000 x g for 5 minutes
-6. Transfer up to 5 mL to new, labeled **15 mL conical tubes**, avoiding the precipitated debris pellet.
+6. Add **1 mL NaCl (5 M)** to new, labeled **5 mL or 15 mL conical sample tubes**.
+7. Transfer 4 - 5 mL supernatant to the new tubes, avoiding the precipitated debris pellet. Optional: Archive the filter membrane at *-80°C*.
+8. Vortex briefly.
+9. Centrifuge at 6000 x g for 15 - 20 minutes.
+10. Carefully transfer the supernatant to new, labeled **15 mL conical tubes**, avoiding the pellet.
 
 ---
 
-### 4.3 Salting Out
-
-Salting out is required to not co-precipitate SDS in the following steps.
-
-> **Note:** This section is not necessary if omitting SDS from the **storage/lysis buffer**. Continue to Section 4.4.
-
-1. Add **1 mL NaCl (10M)** to each sample tube.
-2. Vortex briefly.
-3. Centrifuge at 6000 x g for 15 - 20 minutes.
-4. Carefully transfer the supernatant to new, labeled **15 mL conical tubes**.
-
----
-
-### 4.4 Ethanol Precipitation
+### 4.3 Ethanol Precipitation
 
 > ⚠️ **Before starting:** Cool 96 - 100% ethanol to *-20°C*.
 
@@ -128,42 +121,47 @@ Salting out is required to not co-precipitate SDS in the following steps.
 
 > ⚠️ **Before starting:** Begin pre-cooling of centrifuge (*4°C*). Cool 70% ethanol to *-20°C*.
 
-5. Centrifuge at 6000 x g and *4°C* for 30 minutes.
+5. Centrifuge at > 6000 x g (maximum speed) and *4°C* for 30 minutes.
 6. Discard the supernatant, being careful not to disturb the pellet.
-7. Add **1 mL ice-cold 70% ethanol** and wash by inverting several times.
-8. Decant the ethanol and air dry the pellet (5 - 10 minutes, using a P20 pipette for any remaining).
-9. Add **200 µL kit lysis buffer** (provided with the column extraction kit; e.g., BL Buffer, ATL Buffer, or similar).
+7. Add **1 - 2 mL ice-cold 70% ethanol** and wash by gently inverting several times.
+8. Centrifuge again for 5 minutes.
+9. Decant the ethanol and air dry the pellet (5 - 10 minutes, using a P20 pipette for any remaining).
+10. Resuspend pellet in **200 µL kit lysis buffer** (provided with the column extraction kit; e.g., TL Buffer, ATL Buffer, or similar).
+11. Pipette up and down to mix. Incubate at *55°C* if pellet does not dissolve readily.
 
 ---
 
 ### 4.5 Column Extraction
 
-Proceed with the extraction protocol as described by the manufacturer. Below is the modified extraction using the OMEGA E.Z.N.A. Extraction kits:
+Proceed with the extraction protocol as described by the manufacturer, without the Proteinase-K lysis and incubation. 
+Below is the modified extraction using the OMEGA E.Z.N.A. extraction kits:
 
 > ⚠️ **Before starting:** Set heat block to *55°C*. Set second heat block to *70°C* and begin warming aliquots of Elution Buffer. Cool 96 - 100% ethanol to *-20°C*.
 
 1. Add **200 µL of kit lysis buffer (Buffer BL)**.
-2. Incubate for 1 hour at *55°C*.
+2. Incubate at *70°C* for 10 minutes.
 3. Add **200 µL ice-cold ethanol (96-100%)** to the mixture.
 4. Vortex thoroughly.
 5. Transfer the entire mixture to a **labeled spin column** placed in a collection tube.
-6. Centrifuge at 6,000 x g for 1 minute.
+6. Centrifuge at 6,000 x g for 1 minute. Repeat until column is dry.
 7. Discard the flow-through and collection tube.
 8. Place the column into a **new collection tube**.
-9. Add **500 µL of Wash Buffer 1 (AW1)** to the column.
-10. Centrifuge at 6,000 x g for 1 minute.
+9. Add **500 µL of Wash Buffer 1 (HBC Buffer)** to the column.
+10. Centrifuge at 6,000 x g for 30 seconds.
 11. Discard flow-through and collection tube.
 12. Place the column into a new collection tube.
-13. Add **500 µL of Wash Buffer 2 (AW2)** to the column.
-14. Centrifuge at maximum speed for 3 minutes to dry the membrane.
+13. Add **700 µL of Wash Buffer 2 (Wash Buffer)** to the column.
+14. Centrifuge at 6,000 x g for 30 seconds.
+15. Repeat a second wash step (Steps 13 - 14).
+16. Centrifuge at maximum speed for 4 minutes to dry the membrane.
 
 > ⚠️ **Critical Step:** This ensures no residual ethanol contaminates the final eluate.
 
 14. Discard flow-through and collection tube.
 15. Place the column into a new, **labeled 1.5 mL microcentrifuge tube**.
 16. Add **50 µL of Elution Buffer (Buffer AE)** heated to *70°C* directly to the center of the membrane.
-17. Incubate at room temperature for 2 minutes.
-18. Centrifuge at 6,000 x g for 1 minute to collect DNA eluate.
+17. Let sit for 2 minutes.
+18. Centrifuge at maximum speed for 1 minute to collect DNA eluate.
 19. Optional: Re-elute by repeating steps 16 - 18 to increase yield.
 
 ---
