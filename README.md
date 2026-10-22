@@ -101,7 +101,7 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 > ⚠️ **Important:** Perform all steps in a designated pre-PCR clean area when possible.
 
-> ⚠️ **Before starting:** Thaw Proteinase K on ice. Ensure heat block is at 55°C.
+> ⚠️ **Before starting:** Thaw Proteinase K on ice. Ensure heat block/incubator is at 55°C.
 
 ### 4.2 Lysis & Digestion (Day 1)
 
@@ -117,51 +117,54 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 > ⚠️ **Before starting:** Prepare clean, labeled 15 mL tubes. Pre-cool centrifuge to 4°C.
 
 1. **Vortex:** Briefly vortex the 5 mL tube after overnight digestion.
-2. **Add NaCl:** Add **1 mL of 5 M NaCl** to the 5 mL tube.
+2. **Transfer:** Transfer up to 4 mL to new, labeled 5 mL conical tubes.
+3. **Add NaCl:** Add **1 mL of 5 M NaCl** to the 5 mL tube.
    - Final NaCl concentration: ~1 M
-3. **Mix:** Cap tightly and vortex briefly (5 seconds).
-4. **Centrifuge:** Spin at **6,000 xg** for **15 minutes** at room temperature.
-5. **Transfer supernatant:** Carefully pipette the supernatant into a new, labeled **15 mL tube**.
-   - **CRITICAL:** Leave behind the last 50-100 µL to avoid the protein/SDS pellet.
+4. **Mix:** Cap tightly and vortex briefly (5 seconds).
+5. **Centrifuge:** Spin at **6,000 xg** for **15 minutes** at room temperature.
+6. **Transfer supernatant:** Carefully pipette the supernatant into a new, labeled **15 mL tube**.
+   - **CRITICAL:** Leave behind the last 100-500 µL to avoid the protein/SDS pellet.
    - Expected volume: ~4-5 mL
 
 ---
 
 ### 4.4 Ethanol Precipitation (Day 2)
 
-> ⚠️ **Before starting:** Cool 100% ethanol to -20°C.
+> ⚠️ **Before starting:** Cool 100% ethanol to -20°C. 
 
 1. **Add ethanol:** Add **1 volume of ice-cold 100% ethanol** to the 15 mL tube.
    - Example: If you transferred 3.5 mL, add 3.5 mL ethanol.
 2. **Mix:** Cap and invert 10-15 times (or vortex briefly for 5 seconds).
-3. **Incubate:** Place at **-20°C for 1-2 hours** (or overnight if more convenient).
+3. **Incubate:** Place at **-20°C overnight**.
+   - If time is limited, 2-3 hours may be sufficient.
 
 ---
 
-### 4.5 Pellet Recovery (Day 2)
+### 4.5 Pellet Recovery (Day 3)
 
-> ⚠️ **Before starting:** Pre-cool centrifuge to 4°C. Cool 70% ethanol to -20°C (optional).
+> ⚠️ **Before starting:** Pre-cool centrifuge to 4°C. Cool 70% ethanol to -20°C. Heat block to 55°C.
 
 1. **Centrifuge:** Spin at **6,000 xg** for **30 minutes** at 4°C.
-2. **Remove supernatant:** Carefully decant or pipette off the ethanol supernatant.
-3. **Wash pellet:** Add **1-2 mL of 70% ethanol** to the tube.
+2. **Remove supernatant:** Carefully decant or pipette off the ethanol supernatant, without disturbing the pellet.
+3. **Wash pellet:** Add **1 mL of 70% ethanol** to the tube.
    - Gently invert 2-3 times to wash. **Do NOT vortex**.
 4. **Centrifuge:** Spin at **6,000 xg** for **5 minutes** at 4°C.
 5. **Remove supernatant:** Carefully pipette off the 70% ethanol.
-6. **Air dry:** Leave the tube open at room temperature for **5-10 minutes**.
+6. **Repeat wash:** Repeat the **70% ethanol** wash a second time.
+7. **Air dry:** Leave the tube open at room temperature for **5-10 minutes**.
    - **CRITICAL:** Do not over-dry. If the pellet turns completely clear and cracks, it becomes difficult to resuspend. A slight glistening at the bottom is fine.
 
 ---
 
-### 4.6 Resuspension (Day 2)
+### 4.6 Resuspension (Day 3)
 
 1. **Add buffer:** Add **200 µL of TL Buffer** (or equivalent kit lysis buffer) directly to the pellet.
 2. **Resuspend:** Pipette up and down 10-15 times to dissolve the pellet.
-3. **Heat if needed:** If the pellet doesn't dissolve, incubate at **55°C for 5-10 minutes** with occasional pipetting.
+3. **Heat if needed:** If the pellet doesn't dissolve, incubate at **55°C for 5-10 minutes** with occasional pipetting to mix.
 
 ---
 
-### 4.7 Column Cleanup (Day 2)
+### 4.7 Column Cleanup (Day 3)
 
 > ⚠️ **Before starting:** Set heat block to 70°C and warm Elution Buffer.
 
@@ -210,13 +213,14 @@ Proceed with the OMEGA E.Z.N.A. column extraction protocol (or equivalent):
 | **Problem** | **Possible Cause** | **Solution** |
 | :--- | :--- | :--- |
 | Low yield | Lysis incomplete | Increase Proteinase K digestion time (overnight) or temperature (60°C max). |
-| Low yield | Inefficient precipitation | Ensure 1 volume ethanol was used. Increase centrifugation to 45 minutes. |
+| Low yield | Inefficient precipitation | Ensure > 1 volume ethanol was used. Increase centrifugation to 45 minutes.|
 | Low yield | Inefficient elution | Incubate elution buffer on membrane for 5 minutes. Use double elution. |
 | Low A260/280 | Protein contamination | Increase Proteinase K digestion or add second Prot-K treatment. |
 | Low A260/230 | Salt/ethanol contamination | Add extra 70% ethanol wash. Dry column longer (5 min). |
 | Column clogged | SDS carryover | Be more careful transferring supernatant (avoid pellet). Reduce sample input. |
 | Negative control positive | Contamination | Review decontamination procedures. Replace reagents. Use fresh tips. |
 | PCR inhibition | Co-purified humic acids | Dilute eluate 1:10. Add inhibitor removal step (e.g., Zymo OneStep). Switch to inhibitor-specific column kit (e.g., Qiagen PowerSoil)|
+| PCR inhibition | Co-precipitated SDS | Avoid bottom liquid/pellet after 5M NaCl salting out. Ensure two 70% ethanol wash steps of pellet. |
 
 ---
 
