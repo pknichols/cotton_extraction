@@ -1,9 +1,8 @@
 # Laboratory Protocol: eDNA Preservation & Extraction from Water Samples on Cotton Membranes
 
 **Version:** 1.0  
-**Effective Date:** 2026/11  
 **Author:** Dr. Patrick Nichols  
-**Last Modified:** 2026/09/07
+**Last Modified:** 2026/11
 
 ---
 
