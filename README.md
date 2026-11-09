@@ -1,7 +1,7 @@
 # Laboratory Protocol: eDNA Preservation & Extraction from Water Samples on Cotton Membranes
 
 **Version:** 1.0  
-**Effective Date:** 2026/09  
+**Effective Date:** 2026/11  
 **Author:** Dr. Patrick Nichols  
 **Last Modified:** 2026/09/07
 
@@ -58,18 +58,18 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 | **Reagent** | **Stock Concentration** | **Volume (mL)** | **Final 2× Concentration** |
 | :--- | :--- | :--- | :--- |
-| dH₂O |  | 18 mL |  |
-| NaCl | 5 M | 4 mL | 0.4 M |
+| dH₂O |  | 35 mL |  |
+| NaCl | 5 M | 2 mL | 0.2 M |
 | Tris-HCl | 1 M (pH 8.0) | 10 mL | 0.2 M |
 | EDTA | 0.5 M (pH 8.0) | 2 mL | 0.02 M |
-| SDS | 10% w/v | 10 mL | 2% |
-| *Total* | *2×* | *44 mL* |  |
+| SDS | 10% w/v | 5 mL | 1% |
+| *Total* | *2×* | *50 mL* |  |
 
-**Note:** When mixed 1:1 with ~2 mL water (final volume ~4.5 mL in 5 mL tube), final concentrations are:
+**Note:** When mixed 1:1 with ~2.5 mL water (final volume ~5 mL in 5 mL tube), final concentrations are:
 - Tris-HCl: 100 mM
 - EDTA: 10 mM
-- SDS: 1%
-- NaCl: ~100 mM (plus additional from salting-out step)
+- SDS: 0.5%
+- NaCl: 100 mM (plus additional from salting-out step)
 
 **Storage:** Room temperature, protected from light. If precipitates form, warm to 37°C with gentle mixing until dissolved. Discard if buffer is >6 months old or precipitates don't fully dissolve.
 
@@ -89,13 +89,14 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 ### 4.1 Sample Preservation
 
-1. **Prepare 5 mL or 15 mL tubes (one per sample):** Add **2.5 mL of 2× Storage/Lysis Buffer** to each labeled 5 mL tube.
-2. **Add sample:** Place the cotton membrane (with ~2 mL retained water) into the tube.
+1. **Prepare 5 mL or 15 mL tubes (one per sample):** Add **2 - 2.5 mL of 2× Storage/Lysis Buffer** to each labeled 5 mL tube.
+   - Use smaller volume if sub-sampling cotton membrane (i.e., cutting in half). Buffer and sample should be mixed at approx. 1:1 ratio.
+3. **Add sample:** Place the cotton membrane (with ~2 - 2.5 mL retained water) into the tube.
    - Ensure the membrane is **fully submerged**.
    - If it floats, gently push down with a sterile pipette tip or forceps.
-3. **Mix:** Cap tightly and vortex briefly (5 seconds) or shake vigorously.
-4. **Store:** Keep at **room temperature)** for up to 2 weeks before extraction. If freezer is available, keep frozen at **< -20°C**.
-5. **Record metadata:** Sample ID, date, site, coordinates, membrane deployment duration, etc.
+4. **Mix:** Cap tightly and vortex briefly (5 seconds) or shake vigorously.
+5. **Store:** Keep at **room temperature)** for up to 2 weeks before extraction. If freezer is available, keep frozen at **< -20°C**.
+6. **Record metadata:** Sample ID, date, site, coordinates, membrane deployment duration, etc.
 
 ---
 
@@ -213,7 +214,7 @@ Proceed with the OMEGA E.Z.N.A. column extraction protocol (or equivalent):
 | **Problem** | **Possible Cause** | **Solution** |
 | :--- | :--- | :--- |
 | Low yield | Lysis incomplete | Increase Proteinase K digestion time (overnight) or temperature (60°C max). |
-| Low yield | Inefficient precipitation | Ensure > 1 volume ethanol was used. Increase centrifugation to 45 minutes.|
+| Low yield | Inefficient precipitation | Ensure 2.5 volume ethanol was used. Increase centrifugation to 45 minutes.|
 | Low yield | Inefficient elution | Incubate elution buffer on membrane for 5 minutes. Use double elution. |
 | Low A260/280 | Protein contamination | Increase Proteinase K digestion or add second Prot-K treatment. |
 | Low A260/230 | Salt/ethanol contamination | Add extra 70% ethanol wash. Dry column longer (5 min). |
@@ -231,7 +232,7 @@ Proceed with the OMEGA E.Z.N.A. column extraction protocol (or equivalent):
 | Sample preservation | 5 mL | 2.5 mL buffer + ~2 mL water | - | RT | - |
 | Proteinase K digestion | 5 mL | 100 µL ProtK | Overnight | 55°C | - |
 | Salting-out | 5 mL | 1 mL 5M NaCl | 15 min | RT | 6,000 xg |
-| Ethanol precipitation | 15 mL | 1 vol 100% ethanol | 1-2 hours | -20°C | - |
+| Ethanol precipitation | 15 mL | 2.5 vol 100% ethanol | Overnight | -20°C | - |
 | Pellet recovery | 15 mL | - | 30 min | 4°C | 6,000 xg |
 | Wash | 15 mL | 1-2 mL 70% ethanol | 5 min | 4°C | 6,000 xg |
 | Resuspend | 1.5 mL | 200 µL TL Buffer | 5-10 min | 55°C | - |
