@@ -89,12 +89,12 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 ### 4.1 Sample Preservation
 
-1. **Prepare 5 mL tubes:** Add **2.5 mL of 2× Storage/Lysis Buffer** to each labeled 5 mL tube.
+1. **Prepare 5 mL or 15 mL tubes (one per sample):** Add **2.5 mL of 2× Storage/Lysis Buffer** to each labeled 5 mL tube.
 2. **Add sample:** Place the cotton membrane (with ~2 mL retained water) into the tube.
    - Ensure the membrane is **fully submerged**.
    - If it floats, gently push down with a sterile pipette tip or forceps.
 3. **Mix:** Cap tightly and vortex briefly (5 seconds) or shake vigorously.
-4. **Store:** Keep at **room temperature** for up to 2 weeks before extraction.
+4. **Store:** Keep at **room temperature)** for up to 2 weeks before extraction. If freezer is available, keep frozen at **< -20°C**.
 5. **Record metadata:** Sample ID, date, site, coordinates, membrane deployment duration, etc.
 
 ---
@@ -105,7 +105,7 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 ### 4.2 Lysis & Digestion (Day 1)
 
-1. **Add Proteinase K:** Add **100 µL Proteinase K (20 mg/mL)** directly to the 5 mL tube.
+1. **Add Proteinase K:** Add **100 µL Proteinase K (20 mg/mL)** directly to each sample tube.
 2. **Mix:** Vortex briefly (5-10 seconds) to mix thoroughly.
 3. **Incubate:** Place at **55°C overnight** (12-16 hours).
    - If time is limited or using a fraction of the filter membrane, 2-3 hours with shaking (400 rpm) is sufficient.
@@ -114,9 +114,9 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 ### 4.3 Salting-Out (Day 2)
 
-> ⚠️ **Before starting:** Prepare clean, labeled 15 mL tubes. Pre-cool centrifuge to 4°C.
+> ⚠️ **Before starting:** Prepare clean, labeled 15 mL tubes (one per sample) and 5 mL tubes (one per sample). Pre-cool centrifuge to 4°C.
 
-1. **Vortex:** Briefly vortex the 5 mL tube after overnight digestion.
+1. **Vortex:** Briefly vortex the sample tube after overnight digestion.
 2. **Transfer:** Transfer up to 4 mL to new, labeled 5 mL conical tubes.
 3. **Add NaCl:** Add **1 mL of 5 M NaCl** to the 5 mL tube.
    - Final NaCl concentration: ~1 M
@@ -132,8 +132,8 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 > ⚠️ **Before starting:** Cool 100% ethanol to -20°C. 
 
-1. **Add ethanol:** Add **1 volume of ice-cold 100% ethanol** to the 15 mL tube.
-   - Example: If you transferred 3.5 mL, add 3.5 mL ethanol.
+1. **Add ethanol:** Add **2.5 volumes of ice-cold 100% ethanol** to the 15 mL tube.
+   - Example: If you transferred 4 mL, add 10 mL ethanol.
 2. **Mix:** Cap and invert 10-15 times (or vortex briefly for 5 seconds).
 3. **Incubate:** Place at **-20°C overnight**.
    - If time is limited, 2-3 hours may be sufficient.
@@ -142,7 +142,7 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 ### 4.5 Pellet Recovery (Day 3)
 
-> ⚠️ **Before starting:** Pre-cool centrifuge to 4°C. Cool 70% ethanol to -20°C. Heat block to 55°C.
+> ⚠️ **Before starting:** Pre-cool centrifuge to 4°C. Cool 70% ethanol to -20°C. Heat block to 55°C with extraction kit lysis buffer (TL Buffer or equivalent).
 
 1. **Centrifuge:** Spin at **6,000 xg** for **30 minutes** at 4°C.
 2. **Remove supernatant:** Carefully decant or pipette off the ethanol supernatant, without disturbing the pellet.
