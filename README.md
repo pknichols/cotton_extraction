@@ -57,7 +57,7 @@ Prepare in a 50 mL falcon tube. Store at room temperature (15-25°C), protected 
 
 | **Reagent** | **Stock Concentration** | **Volume (mL)** | **Final 2× Concentration** |
 | :--- | :--- | :--- | :--- |
-| dH₂O |  | 35 mL |  |
+| dH₂O |  | 31 mL |  |
 | NaCl | 5 M | 2 mL | 0.2 M |
 | Tris-HCl | 1 M (pH 8.0) | 10 mL | 0.2 M |
 | EDTA | 0.5 M (pH 8.0) | 2 mL | 0.02 M |
