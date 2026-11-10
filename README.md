@@ -184,7 +184,7 @@ Proceed with the OMEGA E.Z.N.A. column extraction protocol (or equivalent):
    - Add **50 µL of Elution Buffer** (heated to 70°C) directly to the center of the membrane.
    - Let sit for 2 minutes.
    - Centrifuge at maximum speed for 1 minute.
-10. **Optional double elution:** Repeat step 9 with a second 50 µL aliquot and combine eluates for increased yield.
+10. **Optional double elution:** Repeat step 9 with a second 50 µL elution for increased yield.
 
 ---
 
@@ -217,10 +217,10 @@ Proceed with the OMEGA E.Z.N.A. column extraction protocol (or equivalent):
 | Low yield | Inefficient elution | Incubate elution buffer on membrane for 5 minutes. Use double elution. |
 | Low A260/280 | Protein contamination | Increase Proteinase K digestion or add second Prot-K treatment. |
 | Low A260/230 | Salt/ethanol contamination | Add extra 70% ethanol wash. Dry column longer (5 min). |
-| Column clogged | SDS carryover | Be more careful transferring supernatant (avoid pellet). Reduce sample input. |
+| Column clogged | High particulate organic matter | Add inhibitor removal step (e.g., Zymo OneStep). Subsample membrane to reduce particulate matter and potential inhibitors. |
 | Negative control positive | Contamination | Review decontamination procedures. Replace reagents. Use fresh tips. |
 | PCR inhibition | Co-purified humic acids | Dilute eluate 1:10. Add inhibitor removal step (e.g., Zymo OneStep). Switch to inhibitor-specific column kit (e.g., Qiagen PowerSoil)|
-| PCR inhibition | Co-precipitated SDS | Avoid bottom liquid/pellet after 5M NaCl salting out. Ensure two 70% ethanol wash steps of pellet. |
+| PCR inhibition | Co-precipitated SDS | Avoid bottom liquid/pellet after 5M NaCl salting out. Ensure two 70% ethanol wash steps of pellet. Reduce initial buffer volume and subsample membrane. |
 
 ---
 
@@ -228,14 +228,14 @@ Proceed with the OMEGA E.Z.N.A. column extraction protocol (or equivalent):
 
 | **Step** | **Tube** | **Volume** | **Time** | **Temp** | **Speed** |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sample preservation | 5 mL | 2.5 mL buffer + ~2 mL water | - | RT | - |
-| Proteinase K digestion | 5 mL | 100 µL ProtK | Overnight | 55°C | - |
-| Salting-out | 5 mL | 1 mL 5M NaCl | 15 min | RT | 6,000 xg |
+| Sample preservation | 5 or 15 mL | 2.5 mL buffer + ~2 mL water | - | RT | - |
+| Proteinase K digestion | 5 or 15 mL | 100 µL ProtK | Overnight | 55°C | - |
+| Salting-out | 5 or 15 mL | 1 mL 5M NaCl | 15 min | RT | 6,000 xg |
 | Ethanol precipitation | 15 mL | 2.5 vol 100% ethanol | Overnight | -20°C | - |
 | Pellet recovery | 15 mL | - | 30 min | 4°C | 6,000 xg |
 | Wash | 15 mL | 1-2 mL 70% ethanol | 5 min | 4°C | 6,000 xg |
-| Resuspend | 1.5 mL | 200 µL TL Buffer | 5-10 min | 55°C | - |
-| Column elution | Spin column | 50-100 µL | 2 min | 70°C | Max speed |
+| Resuspend | 15 mL | 200 µL TL Buffer | 5-10 min | 55°C | - |
+| Column elution | 1.5 mL spin column | 50-100 µL | 2 min | 70°C | Max speed |
 
 ---
 
